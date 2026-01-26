@@ -50,7 +50,7 @@ const Contact = () => {
           <div className="contact-info">
             <h3>📞 Contact</h3>
             <p>
-              +91 9019797341 <br />
+              +91 9891123714 <br />
               <a href="mailto:memoriesphotographyktm@gmail.com">
                 memoriesphotographyktm@gmail.com
               </a>
@@ -110,4 +110,5 @@ const Contact = () => {
 };
 
 export default Contact;
+
 
