@@ -49,7 +49,7 @@ const ContactUs = () => {
                     <div className="contact-info">
                         <h3>📞 Contact</h3>
                         <p>
-                            +91 9019797341<br />
+                            +91 9891123714<br />
                             <b />
                             <a href="mailto:memoriesphotographyktm@gmail.com"> memoriesphotographyktm@gmail.com </a>
                         </p>
@@ -96,4 +96,5 @@ const ContactUs = () => {
 };
 
 export default ContactUs;
+
 
