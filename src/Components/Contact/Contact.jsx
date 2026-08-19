@@ -50,7 +50,7 @@ const Contact = () => {
           <div className="contact-info">
             <h3>📞 Contact</h3>
             <p>
-              +91 9891123714 <br />
+              +91 8800553866 & 9411583866 <br />
               <a href="mailto:memoriesphotographyktm@gmail.com">
                 memoriesphotographyktm@gmail.com
               </a>

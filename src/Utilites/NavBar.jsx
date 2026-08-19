@@ -42,8 +42,11 @@ const NavBar = () => {
                         rel="noopener noreferrer"
                     >  <FaInstagram />
                     </a>
-                    <a href="tel:+919916388141">
-                        <FaPhoneAlt /> +91 90197 97341
+                    <a href="tel:+918800553866">
+                        <FaPhoneAlt /> +91  8800553866 
+                    </a>
+                    <a href="tel:+919411583866">
+                        <FaPhoneAlt /> +91 9411583866 
                     </a>
                         
                     <a href="mailto:memoriesphotographyktm@gmail.com">
