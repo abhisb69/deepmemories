@@ -13,7 +13,7 @@ const FooterSection = () => {
           {/* Left - Contact Info */}
           <div className="footer-column">
             <h3>Memories Photography</h3>
-            <p>JAdarsh colony,</p>
+            <p>Adarsh colony,</p>
             <p>Degree collage road Near BSNL exchange Khatima U.S.Nagar 262308.</p>
             <p>+91 8800553866 & 9411583866</p>
             <p>memoriesphotographyktm@gmail.com</p>

@@ -41,7 +41,7 @@ const Contact = () => {
           <div className="contact-info">
             <h3>📍 Address</h3>
             <p>
-              JAdarsh colony, <br />
+              Adarsh colony, <br />
               Degree collage road Near BSNL exchange Khatima U.S.Nagar, <br />
               262308
             </p>

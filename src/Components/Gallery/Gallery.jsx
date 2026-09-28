@@ -29,7 +29,7 @@ const images = [
     new URL("../../assets/IMG_9689_11zon.webp.jpg", import.meta.url).href,
     new URL("../../assets/IMG_9699.jpg", import.meta.url).href,
     new URL("../../assets/IMG_9708.jpg", import.meta.url).href,
-    new URL("../../assets/light&sound.jpg", import.meta.url).href,
+    // new URL("../../assets/light&sound.jpg", import.meta.url).href,
     new URL("../../assets/rightimge.jpg", import.meta.url).href,
     new URL("../../assets/Services-hero-1_11zon.webp.jpg", import.meta.url).href
 ];
